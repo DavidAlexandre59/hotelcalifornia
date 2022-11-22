@@ -71,13 +71,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-a3d5270e51d6.js"></script>
   
 
-  <title>Hotel_california/README.md at main · florianpoteau/Hotel_california</title>
+  <title>Hotel_california/TestCategorie.java at main · florianpoteau/Hotel_california</title>
 
 
 
     
 
-  <meta name="request-id" content="ED2A:86EF:331A418:347A95C:637CE7F6" data-turbo-transient="true" /><meta name="html-safe-nonce" content="64afb7e4bc26103de79353fb5ea85371a8875894c9a9f45d944193c735d684c9" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mbG9yaWFucG90ZWF1L0hvdGVsX2NhbGlmb3JuaWEvZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IkVEMkE6ODZFRjozMzFBNDE4OjM0N0E5NUM6NjM3Q0U3RjYiLCJ2aXNpdG9yX2lkIjoiMTMxMDE3NTkwOTg0MjkyNjIwNiIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="0573876c8d42b8064c6d634b893a788c6c46edb2b3bb27e331fc074f2055ee8f" data-turbo-transient="true" />
+  <meta name="request-id" content="ED23:2F5B:37BA9C1:3944205:637CE7EE" data-turbo-transient="true" /><meta name="html-safe-nonce" content="64afb7e4bc26103de79353fb5ea85371a8875894c9a9f45d944193c735d684c9" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mbG9yaWFucG90ZWF1L0hvdGVsX2NhbGlmb3JuaWEvZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IkVEMjM6MkY1QjozN0JBOUMxOjM5NDQyMDU6NjM3Q0U3RUUiLCJ2aXNpdG9yX2lkIjoiMTMxMDE3NTkwOTg0MjkyNjIwNiIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="36596d1bfd902bdfbe18d70194f43cf826c23a5a5aa0832eda15929ddfcd483e" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:569301697" data-turbo-transient>
@@ -116,11 +116,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/062794ac458db1a07aa658f0a8a2a5c1f1cc7823f921ef9e53a321626f07fc7c/florianpoteau/Hotel_california" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Hotel_california/README.md at main · florianpoteau/Hotel_california" /><meta name="twitter:description" content="Contribute to florianpoteau/Hotel_california development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/062794ac458db1a07aa658f0a8a2a5c1f1cc7823f921ef9e53a321626f07fc7c/florianpoteau/Hotel_california" /><meta property="og:image:alt" content="Contribute to florianpoteau/Hotel_california development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Hotel_california/README.md at main · florianpoteau/Hotel_california" /><meta property="og:url" content="https://github.com/florianpoteau/Hotel_california" /><meta property="og:description" content="Contribute to florianpoteau/Hotel_california development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/062794ac458db1a07aa658f0a8a2a5c1f1cc7823f921ef9e53a321626f07fc7c/florianpoteau/Hotel_california" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Hotel_california/TestCategorie.java at main · florianpoteau/Hotel_california" /><meta name="twitter:description" content="Contribute to florianpoteau/Hotel_california development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/062794ac458db1a07aa658f0a8a2a5c1f1cc7823f921ef9e53a321626f07fc7c/florianpoteau/Hotel_california" /><meta property="og:image:alt" content="Contribute to florianpoteau/Hotel_california development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Hotel_california/TestCategorie.java at main · florianpoteau/Hotel_california" /><meta property="og:url" content="https://github.com/florianpoteau/Hotel_california" /><meta property="og:description" content="Contribute to florianpoteau/Hotel_california development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/113667049/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTM2NjcwNDksInMiOjk5ODI4MDc4MCwiYyI6MTQ5MDQ2MjcwOCwidCI6MTY2OTEzMDIzMH0=--1bc4be9928b28c45916d860ecee25f816bf51899bd040b3e3191f0280649cde0" data-refresh-url="/_alive" data-session-id="0c4269085c0259fc0a01f7a5bdb50372935169d99788c29827a59ec1b9d3b084">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/113667049/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTM2NjcwNDksInMiOjk5ODI4MDc4MCwiYyI6MTI4MjM4ODY5LCJ0IjoxNjY5MTMwMjIyfQ==--acea6698a7531ad650f3c510704dee332a709d5fa1b1c0826aa60b27777cfd13" data-refresh-url="/_alive" data-session-id="0c4269085c0259fc0a01f7a5bdb50372935169d99788c29827a59ec1b9d3b084">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -150,7 +150,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/florianpoteau/Hotel_california/blob/main/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/florianpoteau/Hotel_california/blob/main/TestCategorie.java" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -244,7 +244,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="VbRQ6e13q-OIlNXYNj_mldrtftp7MbcMn6OYdKwSeYgUyX7Jgi6mtRRA3ToSsT1GdznvoyhS1qzOjif9oErj0w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="jUKOLvRplZ15iwzgIWiCfzbbs9bPPQ0Hfthe3hqqmibMP6AOmzCYy-VfBAIF5lmsmw8ir5xebKcv9eFXFvIAfQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -443,7 +443,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;DavidAlexandre59&quot;,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/README.md&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="99fe54437da68b8ee3039eda094029b93ff7a39c15312b3033da3d7adbb685bf" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;DavidAlexandre59&quot;,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/TestCategorie.java&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="cd6fe13b344d8d9cee6eb48fb3c03e8a5a9af49a089cb986fac92c302452010c" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -451,7 +451,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/113667049?s=40&amp;v=4" width="20" height="20" alt="@DavidAlexandre59" />
       DavidAlexandre59
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Fwyv9O3Bcme5W0kQ1do2T5iJ5J75DmuoO0Ev1eGtxzi-AKbgqoJiebOVJJafqyMtBgDYcQ6abq1EKw3iB8RzKw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vAWygQqcYiDPjNskEk5qUikzNoNhCQyfq2HmbAnRMS4VCbuVTd9yPsVCtqJYP38wt7oKbJadCZrUC8Rb77iFPQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -486,7 +486,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTEzNjY3MDQ5IiwidCI6MTY2OTEzMDIzMH0=--a58ea90abfbc8dcdd3bde9ec5834454f9b7be9f9e514a2f62c25e3994925a8cb" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTEzNjY3MDQ5IiwidCI6MTY2OTEzMDIyMn0=--0ecc02f35bfbbe117997afafcd6c712c6e9c87b3e481595a910c50db2c57d1ed" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -643,7 +643,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/florianpoteau/Hotel_california/blob/main/README.md
+      return-to=/florianpoteau/Hotel_california/blob/main/TestCategorie.java
       user-id="113667049"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1609,7 +1609,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/README.md&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="83bb3cf42380420d1cb43d5700d5c414062d21df9728e9ebff432d76cb214257" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/TestCategorie.java&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="fdcca4732f1640886b35366667137be84fbba3a61fccaff9b859fae5b18bdb18" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1661,7 +1661,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Klzh9mi3p6tP3nHH2P9EKIJs-GYfTD0HWxtlZLOdZ7YqqI6-EJftrva7ePRLxbLxSwA1SpUvoiU0mlabhhHEhg" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BEZUSZR7ArgyK2YWykz7pkMxKEK-O2MNHZWYgWlFR0wEsjsB7FtIvYtObyVZdg1_il3lbjRY_C9yFKt-XMnkfA" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="569301697">
 
@@ -1779,7 +1779,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="S-6LX83dWs4PkEK6NwJEaa9RUxauZIU3qeOoF9i6ud9LGuQXtf0Qy7b1S4mkOLKwZj2eOiQHGhXGYpvo7TYa7w" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Mro-ckeIU7VSNC3Se4xWbxf7Y6mBX6j5KMHfBzkHBd0yTlE6P6gZsOtRJOHotqC23peuhQs8N9tHQOz4DIum7Q" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="569301697">
 
@@ -1930,7 +1930,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/florianpoteau/Hotel_california/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/README.md&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="4e0a8c1bdeb9dffc8c13df4d5893540dc98fbe15b580cc15de39a6808aa7871a" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of florianpoteau/Hotel_california" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/florianpoteau/Hotel_california/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/TestCategorie.java&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="d41719fe61cbf8364969ab302e05c50828f237b48541d86505e3e434cca72e69" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of florianpoteau/Hotel_california" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1948,13 +1948,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-69c8cf">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ae0c65">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-69c8cf"
+        id="filter-menu-ae0c65"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1996,10 +1996,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/florianpoteau/Hotel_california/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7PVuQjGEIXyuwqWZMZiJMi10FsoQBKS6yH4cJvXhorg2FvnZHpGmVmXmcg3JOmtUSCX_LVyeCk02iC1Rwb7Bgw" autocomplete="off" />
-          <input type="hidden" value="GFHf3GDvtPew_5KnqHjlnSy01wZwhHOl3pLQcc1e7ifCskhHT_oz3XvbRTNQ2gf7SeU-4Twe3VIgZOEG-QGNHA" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/florianpoteau/Hotel_california/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kJXB_aG9IeUzUsxUg7l-zm0IcLBRnhL-8YwfB5BF4nBKdlZmjqimz_h2G8B7G5yoCFmZVx0EvAkPei5wpBqBSw" autocomplete="off" />
+          <input type="hidden" value="Ha9UwzhoIdMMW1R4RkgwSMlkR7EWV-wkFVj1V9-tvmjHTMNYF32m-cd_g-y-6tIurDWuVlrNQtPrrsQg6_LdUw" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/README.md&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="b6b906b43fe29531dbf1255f28a5f8494f4d0ae728828d85e794322f0eee9557" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/TestCategorie.java&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="63a025efb4cd4ca8a1346214d5724e46e6e66e7f6a4c05fcb5252b771f0e1bee" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2017,13 +2017,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-cf9b7c">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7bc603">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-cf9b7c"
+        id="filter-menu-7bc603"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2044,9 +2044,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/florianpoteau/Hotel_california/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AURSOWK3I_u6vxMT56rx9yM_qlU4xDNbg5LCVbzsXcMk4ZigkN2D2SEEiOIj6vJg5TeRbm_eKpwlYQ4y2OUkbA" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/florianpoteau/Hotel_california/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3ArvuRqCRbqTUwMHUHHmJYunvYbFNWtg8TBRpmqJT1_5ryUg6OjlmAjomPaUMeWyTa-GvZIvcqdXw53BDoA28A" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/README.md&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="b3a7493efcd826c8d7ed52a992331c357f4c5538c2f4ade7f4b91a8c0841d505" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/TestCategorie.java&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="cdba4f9b85917e6e9f1fb6378fc472702e1faba090eccfb3c3bb590f0f669b66" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2064,13 +2064,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-cf9b7c">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7bc603">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-cf9b7c"
+        id="filter-menu-7bc603"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2257,7 +2257,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/florianpoteau/Hotel_california/blob/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/florianpoteau/Hotel_california/blob/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/TestCategorie.java">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2265,7 +2265,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/README.md&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="afbd1769f07b501eb5e3f01d5789d1e6fff0e08e048536e728d2b1a4d38ed6bf">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/TestCategorie.java&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="3d15022937c00e396765ee21f1de11658edfac81f9d627232d45fd4d25806f26">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2346,7 +2346,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/florianpoteau/Hotel_california/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/florianpoteau/Hotel_california/blob/{{ urlEncodedRefName }}/TestCategorie.java" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2388,7 +2388,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/florianpoteau/Hotel_california/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/florianpoteau/Hotel_california/blob/{{ urlEncodedRefName }}/TestCategorie.java" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2449,7 +2449,42 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/florianpoteau/Hotel_california"><span>Hotel_california</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/florianpoteau/Hotel_california"><span>Hotel_california</span></a></span></span><span class="separator">/</span><strong class="final-path">TestCategorie.java</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:569301697,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/TestCategorie.java&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="44262b67a6ba4a8c6075c75a833678ca346a501179da6603e7011d785dd744a3" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+      <div class="SelectMenu-list">
+          <div class="SelectMenu-blankslate">
+            <p class="mb-0 color-fg-muted">
+              No definitions found in this file.
+            </p>
+          </div>
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation not available for this commit
+          <svg class="octicon octicon-dot-fill text-light-gray" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/florianpoteau/Hotel_california/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2460,7 +2495,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/README.md&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="166b0cc313d69f46cc8b2f58c6d3af1b0a1495303ce8c36203872a674468d6a6" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/florianpoteau/Hotel_california/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/TestCategorie.java&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="0e27c14cd93f6e3d31c253a1090fd44d61c14c1a2e7a8e0f4e7b76c6fa9b36a3" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/florianpoteau/Hotel_california/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2470,15 +2505,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="TestCategorie.java" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/florianpoteau/Hotel_california/blob/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/florianpoteau/Hotel_california/blob/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/TestCategorie.java" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2510,7 +2551,7 @@
     <include-fragment src="/florianpoteau/Hotel_california/spoofed_commit_check/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/florianpoteau/Hotel_california/contributors/main/README.md" class="commit-loader">
+  <include-fragment src="/florianpoteau/Hotel_california/contributors/main/TestCategorie.java" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2544,31 +2585,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      1 lines (1 sloc)
+      29 lines (18 sloc)
       <span class="file-info-divider"></span>
-    18 Bytes
+    469 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/florianpoteau/Hotel_california/blob/main/README.md?plain=1" data-permalink-href="/florianpoteau/Hotel_california/blob/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>      <a href="/florianpoteau/Hotel_california/blob/main/README.md" data-permalink-href="/florianpoteau/Hotel_california/blob/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/florianpoteau/Hotel_california/raw/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/README.md" href="/florianpoteau/Hotel_california/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/florianpoteau/Hotel_california/blame/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/README.md" href="/florianpoteau/Hotel_california/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/florianpoteau/Hotel_california/raw/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/TestCategorie.java" href="/florianpoteau/Hotel_california/raw/main/TestCategorie.java" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/florianpoteau/Hotel_california/blame/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/TestCategorie.java" href="/florianpoteau/Hotel_california/blame/main/TestCategorie.java" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/florianpoteau/Hotel_california/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="R5D3FuZfmgs1fFTQ4evJft0kSvgjwgBZjrsGY41yApNiNMVI1yuB8d0fWYjh5MQLZxE2yj8hRJWZTKYkFSi4PA" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/florianpoteau/Hotel_california/edit/main/TestCategorie.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="u40Vbmj763JqG366pn2fPRltrg5u6dV5WdBVivGgfLFqGXVfTBsU1818qAdALlcfT0god9W8Dz9BTAIkROhyNg" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2578,7 +2611,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/florianpoteau/Hotel_california/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XsUqn4X9djYQ_7upTsG6TidK56OTQMd1vJXb9aaKh2p7YRjBtIltzPictvFOzrc7nX-bkY-jg7mrYnuyPtA9xQ" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/florianpoteau/Hotel_california/edit/main/TestCategorie.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UgaLv7yXo8IBRrAYWWdl1YK-MQ_ulUNtpG-tTekimS6DkuuOmHdcZ6YhZqW_NK331Ju3dlXAmSu88_rjXGqXqQ" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2586,7 +2619,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/florianpoteau/Hotel_california?branch=main&amp;filepath=README.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/florianpoteau/Hotel_california?branch=main&amp;filepath=TestCategorie.java" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2597,10 +2630,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/florianpoteau/Hotel_california/raw/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/florianpoteau/Hotel_california/raw/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/TestCategorie.java" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/README.md&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="607a313b90fe39dea5bfe51281ee642ba0bf4a910905d27f3b47b366aded5f10" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/TestCategorie.java&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="7846885f6d2ac8c1caf22ba9ae8ec179c7b0ed228f9b887365a9ae7e2caac765" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2625,7 +2658,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/florianpoteau/Hotel_california/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="N3t5bVf6XedG4pbqHMQG3_qGzVeLMAnNNTjlcBSsmJ0S9hQhn8EfNHLjL7YrC6EIhsAH43bWzd1fCIWZVD5oIg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/florianpoteau/Hotel_california/delete/main/TestCategorie.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-ZBQLjFGFvVHkVwnJm0a9sIr5QSww0pfRCgTi9SMiRXuAy8_HOEhdGSxPmbJhd66LXK3N2bT91JmR8qeEP5gPQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2653,20 +2686,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/florianpoteau/Hotel_california?branch=main&amp;filepath=README.md">
+                   href="x-github-client://openRepo/https://github.com/florianpoteau/Hotel_california?branch=main&amp;filepath=TestCategorie.java">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/florianpoteau/Hotel_california/raw/main/README.md">
+            <a class="dropdown-item" href="/florianpoteau/Hotel_california/raw/main/TestCategorie.java">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/florianpoteau/Hotel_california/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/florianpoteau/Hotel_california/raw/main/TestCategorie.java" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/README.md&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="607a313b90fe39dea5bfe51281ee642ba0bf4a910905d27f3b47b366aded5f10">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:569301697,&quot;originating_url&quot;:&quot;https://github.com/florianpoteau/Hotel_california/blob/main/TestCategorie.java&quot;,&quot;user_id&quot;:113667049}}" data-hydro-click-hmac="7846885f6d2ac8c1caf22ba9ae8ec179c7b0ed228f9b887365a9ae7e2caac765">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2689,20 +2722,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/florianpoteau/Hotel_california/blame/main/README.md">
+              <a class="dropdown-item" href="/florianpoteau/Hotel_california/blame/main/TestCategorie.java">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/florianpoteau/Hotel_california/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/florianpoteau/Hotel_california/edit/main/TestCategorie.java">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:569301697,&quot;actor_id&quot;:113667049,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/florianpoteau/Hotel_california/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/florianpoteau/Hotel_california/delete/main/TestCategorie.java">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2710,10 +2743,187 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-hotel_california" class="anchor" aria-hidden="true" href="#hotel_california"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hotel_california</h1>
-</article>
-  </div>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-java  gist-border-0">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Java" data-tagsearch-path="TestCategorie.java">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>package</span> <span class=pl-s1>HotelCalifornia</span>;</td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//Constructor</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-k>public</span> <span class=pl-k>class</span> <span class=pl-smi>TestCategorie</span> {</td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">	</td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>String</span> <span class=pl-s1>lavabo</span>;</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>String</span> <span class=pl-s1>wc</span>;</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>String</span> <span class=pl-s1>télévision</span>;</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>String</span> <span class=pl-s1>douche</span>;</td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>String</span> <span class=pl-s1>bain</span>;</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>String</span> <span class=pl-s1>deuxpièces</span>;</td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">	</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>public</span> <span class=pl-smi>TestCategorie</span> (<span class=pl-smi>String</span> <span class=pl-s1>lavabo</span>, <span class=pl-smi>String</span> <span class=pl-s1>wc</span>, <span class=pl-smi>String</span> <span class=pl-s1>télévision</span>, <span class=pl-smi>String</span> <span class=pl-s1>douche</span>, <span class=pl-smi>String</span> <span class=pl-s1>bain</span>, <span class=pl-smi>String</span> <span class=pl-s1>deuxpièces</span>){</td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">		</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span>.<span class=pl-s1>lavabo</span> = <span class=pl-s1>lavabo</span>;</td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span>.<span class=pl-s1>wc</span> = <span class=pl-s1>wc</span>;</td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span>.<span class=pl-s1>télévision</span> = <span class=pl-s1>télévision</span>;</td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span>.<span class=pl-s1>douche</span> = <span class=pl-s1>douche</span>;</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span>.<span class=pl-s1>bain</span> = <span class=pl-s1>bain</span>;</td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span>.<span class=pl-s1>deuxpièces</span> = <span class=pl-s1>deuxpièces</span>;</td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">		</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">		</td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">		</td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">	}</td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">	</td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/florianpoteau/Hotel_california/blame/1b47bfd4aaca3007ff4cc21876f1eefe2af8c5b7/TestCategorie.java">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/florianpoteau/Hotel_california/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
+    </div>
 
     </div>
 
@@ -2729,6 +2939,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/florianpoteau/Hotel_california/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
