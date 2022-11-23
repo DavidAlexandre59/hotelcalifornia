@@ -2,18 +2,16 @@ package HotelCalifornia;
 
 import java.util.Scanner;
 
+///Classe de l'hotel
 public class Hotel {
 
 	public static void main(String[] args) {
 		
-		
+		//Accueil pour le client et renseignement de quantité
 		System.out.println("Bienvenue au centre de gestion de l'hotel California");
 		System.out.println("Combien etes vous?");
-
+		//Notion de Capture de ce qui va etre pris au clavier
 		Scanner scan = new Scanner (System.in);
-		
-		
-		
 		
 	
 		int nb = scan.nextInt();
@@ -73,7 +71,7 @@ public class Hotel {
 	       TestCategorie testCategorie = new TestCategorie(" Un lavabo"," wc"," une télévision"," une cabine douche"," Une salle de bain"," 2 pièces");
 	 
 	       
-//	       Condition numéro de catégorie
+//	       Condition numéro de catégorie selon le choix defini par le nombre de personne et le desir du client
 	       
 	       
 	        if(nb == 1){
